@@ -1,0 +1,80 @@
+#####################################################################################################
+##/etc/apt/sources.list
+##
+##  Archivo modificado y editado por Bunkerwallx "Repositorios compatibles con KALI LINUX amd64"
+##   --------------------------------- 03/Mayo/2021-------------------------------------------
+##    ---------------------------------------------------------------------------------------
+##
+####################################################################################################
+####################################################################################################
+##
+##
+##
+##   * KALI LINUX*
+##http://mirrors.ustc.edu.cn/kali 
+###################################################################################################
+deb https://http.kali.org/kali kali-rolling-only non-free main contrib	
+deb http://http.kali.org/kali kali-rolling non-free main contrib	     	
+deb http://archive-8.kali.org/kali kali-rolling non-free main contrib
+deb http://archive-4.kali.org/kali kali-rolling non-free main contrib
+deb http://mirror-1.truenetwork.ru/kali kali-rolling non-free main contrib
+deb http://mirror.neostrada.nl/kali kali-rolling non-free main contrib
+deb http://mirrors.dotsrc.org/kali kali-rolling non-free main contrib
+deb http://ftp.halifax.rwth-aachen.de/kali kali-rolling non-free main contrib
+deb http://kali.koyanet.lv/kali kali-rolling non-free main contrib
+deb http://mirrors.netix.net/kali kali-rolling non-free main contrib
+deb http://mirrors.ocf.berkeley.edu/kali kali-rolling non-free main contrib
+deb http://mirror.cedia.org.ec/kali kali-rolling non-free main contrib
+deb http://ftp.harukasan.org/kali kali-rolling non-free main contrib
+deb http://kali.cs.nctu.edu.tw/kali kali-rolling non-free main contrib
+deb http://hlzmel.fsmg.org.nz/kali kali-rolling non-free main contrib
+deb http://mirror.pyratelan.org/kali kali-rolling non-free main contrib
+deb http://mirror.serverius.net/kali kali-rolling non-free main contrib
+deb http://mirror.ufro.cl/kali kali-rolling non-free main contrib
+deb http://us.mirror.nsec.pt/kali kali-rolling non-free main contrib
+deb http://wlglam.fsmg.org.nz/kali kali-rolling non-free main contrib
+deb https://http.kali.org/kali kali-experimental non-free main contrib
+deb http://ftp.harukasan.org/kali debian-testing non-free main contrib
+#deb http://mirror.neostrada.nl/debian bullseye non-free main contrib
+deb http://mirror.neostrada.nl/kali kali-bleeding-edge non-free main contrib
+deb http://archive-8.kali.org/kali kali-experimental non-free main contrib
+##################################################################################################
+##################################################################################################
+#______________________________________________________________________________#
+#------------------------------------------------------------------------------#
+#                   OFFICIAL DEBIAN REPOS                    
+#------------------------------------------------------------------------------#
+#------------------------------------------------------------------------------#
+#                      UNOFFICIAL  REPOS                       
+#------------------------------------------------------------------------------#
+###### 3rd Party Binary Repos
+###Adapta GTK Theme
+deb http://ppa.launchpad.net/tista/adapta/ubuntu bionic main
+deb-src http://ppa.launchpad.net/tista/adapta/ubuntu bionic main
+###Lynis
+deb https://packages.cisofy.com/community/lynis/deb/ stable main
+###nginx
+deb [arch=amd64,i386] http://nginx.org/packages/debian/ buster nginx
+deb-src [arch=amd64,i386] http://nginx.org/packages/debian/ stretch nginx
+###Opera
+deb [arch=amd64,i386] https://deb.opera.com/opera-stable/ stable non-free
+###Paper GTK Theme
+deb http://ppa.launchpad.net/snwh/pulp/ubuntu bionic main
+deb-src http://ppa.launchpad.net/snwh/pulp/ubuntu bionic main
+###Signal Desktop
+deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main
+###Sublime Text
+deb https://download.sublimetext.com/ apt/stable/
+###Visual Studio Code
+deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main
+################################################################################################
+#################################################################################################3
+###############################################################################################
+#
+# Esta seccion del  #$  /etc/apt/sources.list requierre firmas locales con apt-key
+# Como sea tedejo los pasos y los puntos en dondese te explica los paspos a seguir
+# repostorios vigentes  hasta el dia de hoy  Sabado 5 de junio 2021 00:24:24 hr
+# Bunkerland
+#
+
+
